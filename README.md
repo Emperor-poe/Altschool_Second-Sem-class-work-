@@ -14,3 +14,10 @@ EVIDENCE
 3) i used the "groupadd" command  to  create a group (Altschool)  and the  the "sudo usermod aG Altschool Oluwafemi" command to add Oluwafemi to the Altschool Group
 
 4) ![Add user to group ](https://github.com/Emperor-poe/Altschool_Second-Sem-class-work-/assets/112198917/09c7ee6c-2c5f-46f4-bca3-7dded374b26e)
+
+
+4)   " %Altschool  ALL /bin/cat /etc/* " to configure the access to sudoers in the Altschool Group
+
+5)   ![add cat command config ](https://github.com/Emperor-poe/Altschool_Second-Sem-class-work-/assets/112198917/44571557-788a-4c1a-86e3-c669253bc0e4)
+
+6)   
